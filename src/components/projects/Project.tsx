@@ -28,23 +28,24 @@ const Project = () => {
             <LazyLoad once height={400}>
                 <section className='project__section'>
                     <div className="project__left">
-                        <img className='project__img' src="https://res.cloudinary.com/dhbiouaym/image/upload/q_auto:eco/v1663667979/Portfolio/project1_tsgzck.png" alt="color palette" />
+                        <img className='project__img' src="https://res.cloudinary.com/dexbcxabb/image/upload/v1680336681/home_cg7ob5.jpg" alt="color palette" />
                     </div>
                     <div className="project__right">
                         <h3 className='project__headingTertiary'>Featured Project</h3>
-                        <a href="https://github.com/yashfalke77/Color-palette-Project" target='_blank' rel="noreferrer" className='project__headingSecondary'><h2 >Colors.co</h2></a>
+                        <a href="https://github.com/Umeeic99/StarTech-E-learning-system" target='_blank' rel="noreferrer" className='project__headingSecondary'><h2 >StarTech E-learning.com</h2></a>
                         <div className="project__descriptionContainer">
                             <p className='project__description'>
-                                Coolors is the essential tool for creating and collecting color palettes. It allows you to generate perfect matching colors in seconds. Even if you are not so skilled in design!. You may use a variety of color spaces, including RGB, CMYK, LAB etc.
+                            Our Web app will allow users to Register/Sign in after login users View
+Lessons, Download lesson, View Exercises, attempt quiz , generate score, users can made customize quiz by paying small amount.Explore more about project on github.
                             </p>
-                            <div className='project__tags'> Next.js &nbsp; React.js &nbsp; Node.js &nbsp; MongoDB &nbsp; Express.js &nbsp; SCSS/SASS</div>
+                            <div className='project__tags'> PHP &nbsp; HTML &nbsp; CSS &nbsp; JAVASCRIPT &nbsp; STRIP &nbsp; MYSQL</div>
                             <div className="project__icons">
-                                <a href="https://github.com/yashfalke77/Color-palette-Project" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/Umeeic99/StarTech-E-learning-system" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://github.com/yashfalke77/Color-palette-Project" target='_blank' rel='noreferrer'>
+                                <a href="https://github.com/Umeeic99/StarTech-E-learning-system" target='_blank' rel='noreferrer'>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -58,23 +59,21 @@ const Project = () => {
                 <section className='project__section'>
                     <div className="project__left1">
                         <h3 className='project__headingTertiary'>Featured Project</h3>
-                        <a href="https://arcane-retreat-14101.herokuapp.com/" target="_blank" rel="noreferrer" className='project__headingSecondary'><h2 >YelpCamp Campgrounds</h2></a>
+                        <a href="https://github.com/Umeeic99/shop" target="_blank" rel="noreferrer" className='project__headingSecondary'><h2 >Ecommerce shop</h2></a>
                         <div className="project__descriptionContainer project__descriptionContainer1">
                             <p className='project__description'>
-                                A camping sites web app project that enables
-                                you to add, update, and delete campgrounds as
-                                well as view campgrounds added by other users
-                                and receive comments and ratings from other
-                                users. </p>
+                            Our app will allow users to Register, Sign in, Add Products to the
+shopping cart, remove products and have admin pannel to maintain
+the products details/ statistics using strip payment gatway. </p>
                             <div className='project__tags'>React.js &nbsp;
-                                Express.js &nbsp; Node.js &nbsp; MongoDB &nbsp; Cloudinary &nbsp; ejs </div>
+                                Express.js &nbsp; Node.js &nbsp; MongoDB &nbsp; firebase &nbsp; ejs </div>
                             <div className="project__icons project__icons1">
-                                <a href="https://github.com/yashfalke77/YelpCamp-Campgrounds" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/Umeeic99/shop" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://arcane-retreat-14101.herokuapp.com/" target='_blank' rel='noreferrer'>
+                                <a href="https://github.com/Umeeic99/shop" target='_blank' rel='noreferrer'>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -83,7 +82,7 @@ const Project = () => {
                         </div>
                     </div>
                     <div className="project__right">
-                        <img className='project__img' src="https://res.cloudinary.com/dhbiouaym/image/upload/q_auto:eco/v1663667984/Portfolio/project2_dazq0o.png" alt="yelpcap campgrounds" />
+                        <img className='project__img' src="https://res.cloudinary.com/dexbcxabb/image/upload/v1680338473/ecommerce_szzec4.jpg" alt="yelpcap campgrounds" />
                     </div>
                 </section>
             </LazyLoad>

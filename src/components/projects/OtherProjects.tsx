@@ -113,65 +113,8 @@ const OtherProjects = () => {
                         </div>
                     </div>
                 </li>
-                <li className="other__items">
-                    <div className="other__card">
-                        <div className="other__cardTop">
-                            <svg className="other__cardFolder">
-                                <use href="icons/symbol-defs.svg#icon-folder"></use>
-                            </svg>
-                            <div className='other__cardLink'>
-                                <a href="https://github.com/yashfalke77/Ping-Pong-Score-Keeper" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
-                                    <svg className="other__icon">
-                                        <use href="icons/symbol-defs.svg#icon-github"></use>
-                                    </svg>
-                                </a>
-                                <a href="https://codepen.io/yashfalke77/pen/KKqpgzN" target='_blank' rel='noreferrer'>
-                                    <svg className="other__icon">
-                                        <use href="icons/symbol-defs.svg#icon-codepen"></use>
-                                    </svg>
-                                </a>
-                            </div>
-                        </div>
-                        <div className="other__cardBody">
-                            <div className="other__cardBodyHeading">Ping Pong Score-Keeper</div>
-                            <p className='other__cardBodyDescription'>
-                                Ping Pong Score Keeper website built on vanilla javascript and bulma frontend framework
-                            </p>
-                        </div>
-                        <div className="other__cardFooter">
-                            <div className='other__tags'> Bulma &nbsp; javascript &nbsp; vanilla js</div>
-                        </div>
-                    </div>
-                </li>
-                <li className="other__items">
-                    <div className="other__card">
-                        <div className="other__cardTop">
-                            <svg className="other__cardFolder">
-                                <use href="icons/symbol-defs.svg#icon-folder"></use>
-                            </svg>
-                            <div className='other__cardLink'>
-                                <a href="https://github.com/pico-india/main-django" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
-                                    <svg className="other__icon">
-                                        <use href="icons/symbol-defs.svg#icon-github"></use>
-                                    </svg>
-                                </a>
-                                <a href="https://youtu.be/HI5fYKvuo-8" target='_blank' rel='noreferrer'>
-                                    <svg className="other__icon">
-                                        <use href="icons/symbol-defs.svg#icon-external-link"></use>
-                                    </svg>
-                                </a>
-                            </div>
-                        </div>
-                        <div className="other__cardBody">
-                            <div className="other__cardBodyHeading">Pico - A photo library website</div>
-                            <p className='other__cardBodyDescription'>
-                                Pico is a website dedicated to sharing stock photography under the Pico license. Pico allows photographers to upload photos to its website, which are then curated by a team of photo editors. In Pico we are aspiring to be one of the largest photography suppliers on the internet.                            </p>
-                        </div>
-                        <div className="other__cardFooter">
-                            <div className='other__tags'> Python &nbsp; Django &nbsp; HTML / CSS &nbsp; Javascript</div>
-                        </div>
-                    </div>
-                </li>
+               
+                
             </ul>
             <span className="sectiontag">&lt;/section&gt;</span>
         </div>

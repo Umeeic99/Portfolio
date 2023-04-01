@@ -26,7 +26,7 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_7yhr48h', 'template_56ibui7', form.current, 'hWYBLhSzbCLzcSlTF')
+        emailjs.sendForm('service_wjumgqa', 'template_jufs1xa', form.current, 'CYLwd48uXG2kZMWMU')
             .then((result) => {
                 console.log(result.text);
                 window.alert("Mail Sent Successfully!!!")

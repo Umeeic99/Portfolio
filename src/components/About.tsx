@@ -21,7 +21,8 @@ const About = () => {
                     <AnimatedLettersFast letterClass={letterClass} strArray={nameArray} idx={15} />
                 </h1>
                 <div className='about__description'>
-                    Hello! My name is <span className='about__link'>Umar&nbsp;Khalid</span> and I’m a Back-End Developer located in Pakistan and i have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.<br />
+                    Hello! My name is <span className='about__link'>Umar&nbsp;Khalid</span> and  I am a full stack developer who love programming, Developing, learning and problem solving. 
+Recent university graduate with background in web development. Excellent focus, communication, and ability to learn rapidly. Excels working in a team environment..<br />
                     <br />
                     Well-organised person, problem solver  with high attention to detail. Fan of Gaming esports, outdoor activities, TV series and Japanese anime. A family person and father of two fractious boys.<br />
                     <br />

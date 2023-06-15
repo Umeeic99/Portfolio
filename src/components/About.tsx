@@ -24,7 +24,7 @@ const About = () => {
                     Hello! My name is <span className='about__link'>Umar&nbsp;Khalid</span> and  I am a full stack developer who love programming, Developing, learning and problem solving. 
 Recent university graduate with background in web development. Excellent focus, communication, and ability to learn rapidly. Excels working in a team environment..<br />
                     <br />
-                    Well-organised person, problem solver  with high attention to detail. Fan of Gaming esports, outdoor activities, Web series. <br />
+                    Well-organised person, problem solver  with high attention to detail. Fan of Gaming esports, outdoor activities, TV series and Japanese anime. A family person and father of two fractious boys.<br />
                     <br />
                     Here are the few technologies that I'have been working recently: <br />
                     <ul className='about__skillsList'>

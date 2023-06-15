@@ -63,8 +63,8 @@ Lessons, Download lesson, View Exercises, attempt quiz , generate score, users c
                         <div className="project__descriptionContainer project__descriptionContainer1">
                             <p className='project__description'>
                             Our app will allow users to Register, Sign in, Add Products to the
-shopping cart, remove products and have admin pannel to maintain
-the products details/ statistics using strip payment gatway. </p>
+                                      shopping cart, remove products and have admin pannel to maintain
+                                     the products details/ statistics using strip payment gatway. </p>
                             <div className='project__tags'>React.js &nbsp;
                                 Express.js &nbsp; Node.js &nbsp; MongoDB &nbsp; firebase &nbsp; ejs </div>
                             <div className="project__icons project__icons1">

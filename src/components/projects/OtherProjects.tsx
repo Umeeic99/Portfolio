@@ -32,12 +32,12 @@ const OtherProjects = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='other__cardLink'>
-                                <a href="https://github.com/yashfalke77/food-ordering-app" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/Umeeic99" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://youtu.be/Bm6oUdohS9M" target='_blank' rel='noreferrer'>
+                                <a href="https://github.com/Umeeic99" target='_blank' rel='noreferrer'>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -61,12 +61,12 @@ const OtherProjects = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='other__cardLink'>
-                                <a href="https://github.com/yashfalke77/iNotebook" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/Umeeic99" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://youtu.be/MF7xbfKyaEk" target='_blank' rel='noreferrer'>
+                                <a href="https://github.com/Umeeic99" target='_blank' rel='noreferrer'>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -90,12 +90,12 @@ const OtherProjects = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='other__cardLink'>
-                                <a href="https://github.com/yashfalke77/Natours-project" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/Umeeic99" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://codepen.io/yashfalke77/pen/zYpvOBo" target='_blank' rel='noreferrer'>
+                                <a href="https://github.com/Umeeic99" target='_blank' rel='noreferrer'>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-codepen"></use>
                                     </svg>

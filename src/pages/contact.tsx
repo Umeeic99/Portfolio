@@ -78,14 +78,14 @@ const Contact = () => {
                 <Map
                     mapboxAccessToken='pk.eyJ1IjoieWFzaGZhbGtlNzciLCJhIjoiY2t1MjQ2Z2cwMmxjazJvbXI2OGk5b2V0dSJ9.BGnMIJbpa2OzthfRTtTP6w'
                     initialViewState={{
-                        longitude: 72.8777,
-                        latitude: 19.0760,
+                        longitude:  74.36914402725594,
+                        latitude: 31.419933454976487,
                         zoom: 9.5
                     }}
                     // style={{ width: "100%", height: 600 }}
                     mapStyle="mapbox://styles/yashfalke77/cl89ugdbm001q14rth35g4qth"
                 >
-                    <Marker latitude={19.0908} longitude={72.9077}>
+                    <Marker latitude={31.419933454976487} longitude={74.36914402725594}>
                         <button className='map__button'>
                             <svg width="40" height="132" viewBox="0 0 420 512" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <g filter="url(#filter0_d_405_4)">

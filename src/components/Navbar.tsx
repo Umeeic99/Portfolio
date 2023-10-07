@@ -27,7 +27,7 @@ const Navbar = () => {
                         <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">04.</span>.contact()</a>
                     </li>
                 </ul>
-                <a href="https://drive.google.com/file/d/1ITRCjBpXiArHjIVAinBjcbbdpjKH_azq/view?usp=share_link" target="_blank" rel='noreferrer' className="navbar__button">Resume</a>
+                <a href="" target="_blank" rel='noreferrer' className="navbar__button">Resume</a>
             </div>
         </nav>
     )
